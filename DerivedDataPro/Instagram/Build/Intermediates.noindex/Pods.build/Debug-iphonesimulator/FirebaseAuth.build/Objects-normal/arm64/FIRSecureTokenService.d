@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRSecureTokenService.m \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRSecureTokenService.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthSerialTaskQueue.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthTokenResult_Internal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Interop/FIRAuthInterop.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLogger.h \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRSecureTokenRequest.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRSecureTokenResponse.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponent.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRDependency.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseAuth/FirebaseCore/Extension/FIROptionsInternal.h

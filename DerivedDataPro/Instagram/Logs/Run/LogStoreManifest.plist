@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1A86AF97-DBA2-4088-988E-998A15F432F6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1A86AF97-DBA2-4088-988E-998A15F432F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>682160607.44747901</real>
+			<key>timeStoppedRecording</key>
+			<real>682161389.41608596</real>
+			<key>title</key>
+			<string>Run Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>1A86AF97-DBA2-4088-988E-998A15F432F6</string>
+		</dict>
+		<key>2A66F8EC-6664-46C3-A51F-52994CA7E22F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2A66F8EC-6664-46C3-A51F-52994CA7E22F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>682161392.00993395</real>
+			<key>timeStoppedRecording</key>
+			<real>682162194.57520902</real>
+			<key>title</key>
+			<string>Run Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>2A66F8EC-6664-46C3-A51F-52994CA7E22F</string>
+		</dict>
+		<key>59A8B55B-74BA-498A-B9D3-2352958938FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>59A8B55B-74BA-498A-B9D3-2352958938FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>682162319.69662499</real>
+			<key>timeStoppedRecording</key>
+			<real>682163240.60058904</real>
+			<key>title</key>
+			<string>Run Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>59A8B55B-74BA-498A-B9D3-2352958938FE</string>
+		</dict>
+		<key>5E396A97-402A-4267-B44B-F0040325BA34</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5E396A97-402A-4267-B44B-F0040325BA34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>682158989.47925997</real>
+			<key>timeStoppedRecording</key>
+			<real>682159457.48062205</real>
+			<key>title</key>
+			<string>Run Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>5E396A97-402A-4267-B44B-F0040325BA34</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

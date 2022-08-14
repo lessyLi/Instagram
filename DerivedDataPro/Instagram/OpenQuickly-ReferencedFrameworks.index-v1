@@ -2,6 +2,57 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<string>FirebaseCore</string>
+	<string>WebKit</string>
+	<string>FirebaseStorage</string>
+	<string>FirebaseInAppMessaging</string>
+	<string>FirebaseCrashlytics</string>
+	<string>GameKit</string>
+	<string>FirebaseDatabase</string>
+	<string>StoreKit</string>
+	<string>Firebase</string>
+	<string>FirebaseAppCheck</string>
+	<string>CoreServices</string>
+	<string>FirebaseFunctions</string>
+	<string>SafariServices</string>
+	<string>GTMSessionFetcherCore</string>
+	<string>FirebaseMessaging</string>
+	<string>MobileCoreServices</string>
+	<string>WatchKit</string>
+	<string>MetricKit</string>
+	<string>FirebaseAuthInterop</string>
+	<string>FirebaseAuth</string>
+	<string>AppKit</string>
+	<string>Cocoa</string>
+	<string>FirebasePerformance</string>
+	<string>FirebaseCoreInternal</string>
+	<string>FirebaseAppDistribution</string>
+	<string>FirebaseAppCheckInterop</string>
+	<string>netinet</string>
+	<string>CoreData</string>
+	<string>FirebaseInstallations</string>
+	<string>GoogleDataTransport</string>
+	<string>CommonCrypto</string>
+	<string>GoogleUtilities</string>
+	<string>FirebaseRemoteConfig</string>
+	<string>unicode</string>
+	<string>CFNetwork</string>
+	<string>dispatch</string>
+	<string>GTMSessionFetcher</string>
+	<string>FirebaseStorageInternal</string>
+	<string>SystemConfiguration</string>
+	<string>FirebaseAnalytics</string>
+	<string>Network</string>
+	<string>Security</string>
+	<string>FirebaseCoreExtension</string>
+	<string>objc</string>
+	<string>FirebaseDynamicLinks</string>
 	<string>UIKit</string>
+	<string>CoreTelephony</string>
+	<string>Foundation</string>
+	<string>sys</string>
+	<string>nanopb</string>
+	<string>FirebaseFirestore</string>
+	<string>FBLPromises</string>
 </array>
 </plist>

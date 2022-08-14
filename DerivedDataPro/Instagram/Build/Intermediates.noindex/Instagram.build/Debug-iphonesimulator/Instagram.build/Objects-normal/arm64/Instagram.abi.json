@@ -829,13 +829,20 @@
     },
     {
       "kind": "Import",
-      "name": "UIKit",
-      "printedName": "UIKit",
+      "name": "FirebaseAuth",
+      "printedName": "FirebaseAuth",
       "declKind": "Import",
       "moduleName": "Instagram",
       "declAttributes": [
         "RawDocComment"
       ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "Instagram"
     },
     {
       "kind": "TypeDecl",
@@ -860,6 +867,38 @@
           "overriding": true,
           "isOpen": true,
           "objc_name": "viewDidLoad",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "viewDidAppear",
+          "printedName": "viewDidAppear(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)HomeViewController(im)viewDidAppear:",
+          "mangledName": "$s9Instagram18HomeViewControllerC13viewDidAppearyySbF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidAppear:",
           "declAttributes": [
             "Dynamic",
             "ObjC",
@@ -1447,6 +1486,102 @@
     },
     {
       "kind": "Import",
+      "name": "FirebaseStorage",
+      "printedName": "FirebaseStorage",
+      "declKind": "Import",
+      "moduleName": "Instagram",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "StorageManager",
+      "printedName": "StorageManager",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "shared",
+          "printedName": "shared",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "StorageManager",
+              "printedName": "Instagram.StorageManager",
+              "usr": "s:9Instagram14StorageManagerC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram14StorageManagerC6sharedACvpZ",
+          "mangledName": "$s9Instagram14StorageManagerC6sharedACvpZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "StorageManager",
+                  "printedName": "Instagram.StorageManager",
+                  "usr": "s:9Instagram14StorageManagerC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram14StorageManagerC6sharedACvgZ",
+              "mangledName": "$s9Instagram14StorageManagerC6sharedACvgZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "StorageManager",
+              "printedName": "Instagram.StorageManager",
+              "usr": "s:9Instagram14StorageManagerC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:9Instagram14StorageManagerCACycfc",
+          "mangledName": "$s9Instagram14StorageManagerCACycfc",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:9Instagram14StorageManagerC",
+      "mangledName": "$s9Instagram14StorageManagerC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "AccessControl"
+      ],
+      "hasMissingDesignatedInitializers": true
+    },
+    {
+      "kind": "Import",
       "name": "UIKit",
       "printedName": "UIKit",
       "declKind": "Import",
@@ -1650,6 +1785,102 @@
           "mangledName": "$ss28CustomDebugStringConvertibleP"
         }
       ]
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseDatabase",
+      "printedName": "FirebaseDatabase",
+      "declKind": "Import",
+      "moduleName": "Instagram",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "DatabaseManager",
+      "printedName": "DatabaseManager",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "shared",
+          "printedName": "shared",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseManager",
+              "printedName": "Instagram.DatabaseManager",
+              "usr": "s:9Instagram15DatabaseManagerC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram15DatabaseManagerC6sharedACvpZ",
+          "mangledName": "$s9Instagram15DatabaseManagerC6sharedACvpZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "DatabaseManager",
+                  "printedName": "Instagram.DatabaseManager",
+                  "usr": "s:9Instagram15DatabaseManagerC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram15DatabaseManagerC6sharedACvgZ",
+              "mangledName": "$s9Instagram15DatabaseManagerC6sharedACvgZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseManager",
+              "printedName": "Instagram.DatabaseManager",
+              "usr": "s:9Instagram15DatabaseManagerC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:9Instagram15DatabaseManagerCACycfc",
+          "mangledName": "$s9Instagram15DatabaseManagerCACycfc",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:9Instagram15DatabaseManagerC",
+      "mangledName": "$s9Instagram15DatabaseManagerC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "AccessControl"
+      ],
+      "hasMissingDesignatedInitializers": true
     },
     {
       "kind": "Import",
@@ -2285,6 +2516,202 @@
       "printedName": "LoginViewController",
       "children": [
         {
+          "kind": "Var",
+          "name": "usernameEmailField",
+          "printedName": "usernameEmailField",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITextField",
+              "printedName": "UIKit.UITextField",
+              "usr": "c:objc(cs)UITextField"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC18usernameEmailField33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo06UITextG0Cvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC18usernameEmailField33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo06UITextG0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "passwordField",
+          "printedName": "passwordField",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITextField",
+              "printedName": "UIKit.UITextField",
+              "usr": "c:objc(cs)UITextField"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC13passwordField33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo06UITextF0Cvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC13passwordField33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo06UITextF0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "loginButton",
+          "printedName": "loginButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC11loginButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC11loginButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "termsButton",
+          "printedName": "termsButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC11termsButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC11termsButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "privacyButton",
+          "printedName": "privacyButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC13privacyButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC13privacyButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "createAccountButton",
+          "printedName": "createAccountButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC19createAccountButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC19createAccountButton33_E2ED9944AFBF1E7EC612774EFEF429E6LLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 5,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "headerView",
+          "printedName": "headerView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIView",
+              "printedName": "UIKit.UIView",
+              "usr": "c:objc(cs)UIView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19LoginViewControllerC06headerC033_E2ED9944AFBF1E7EC612774EFEF429E6LLSo6UIViewCvp",
+          "mangledName": "$s9Instagram19LoginViewControllerC06headerC033_E2ED9944AFBF1E7EC612774EFEF429E6LLSo6UIViewCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 6,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
           "kind": "Function",
           "name": "viewDidLoad",
           "printedName": "viewDidLoad()",
@@ -2302,6 +2729,32 @@
           "overriding": true,
           "isOpen": true,
           "objc_name": "viewDidLoad",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "viewDidLayoutSubviews",
+          "printedName": "viewDidLayoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)LoginViewController(im)viewDidLayoutSubviews",
+          "mangledName": "$s9Instagram19LoginViewControllerC21viewDidLayoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidLayoutSubviews",
           "declAttributes": [
             "Dynamic",
             "ObjC",
@@ -2680,6 +3133,197 @@
           "mangledName": "$ss28CustomDebugStringConvertibleP"
         }
       ]
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseAuth",
+      "printedName": "FirebaseAuth",
+      "declKind": "Import",
+      "moduleName": "Instagram",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "AuthManager",
+      "printedName": "AuthManager",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "shared",
+          "printedName": "shared",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AuthManager",
+              "printedName": "Instagram.AuthManager",
+              "usr": "s:9Instagram11AuthManagerC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram11AuthManagerC6sharedACvpZ",
+          "mangledName": "$s9Instagram11AuthManagerC6sharedACvpZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthManager",
+                  "printedName": "Instagram.AuthManager",
+                  "usr": "s:9Instagram11AuthManagerC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram11AuthManagerC6sharedACvgZ",
+              "mangledName": "$s9Instagram11AuthManagerC6sharedACvgZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "registerNewUser",
+          "printedName": "registerNewUser(username:email:password:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram11AuthManagerC15registerNewUser8username5email8passwordySS_S2StF",
+          "mangledName": "$s9Instagram11AuthManagerC15registerNewUser8username5email8passwordySS_S2StF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "AccessControl",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "loginUser",
+          "printedName": "loginUser(username:email:password:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram11AuthManagerC9loginUser8username5email8passwordySSSg_AHSStF",
+          "mangledName": "$s9Instagram11AuthManagerC9loginUser8username5email8passwordySSSg_AHSStF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AuthManager",
+              "printedName": "Instagram.AuthManager",
+              "usr": "s:9Instagram11AuthManagerC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:9Instagram11AuthManagerCACycfc",
+          "mangledName": "$s9Instagram11AuthManagerCACycfc",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:9Instagram11AuthManagerC",
+      "mangledName": "$s9Instagram11AuthManagerC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "AccessControl"
+      ],
+      "hasMissingDesignatedInitializers": true
     },
     {
       "kind": "Import",
@@ -3095,13 +3739,20 @@
     },
     {
       "kind": "Import",
-      "name": "UIKit",
-      "printedName": "UIKit",
+      "name": "Firebase",
+      "printedName": "Firebase",
       "declKind": "Import",
       "moduleName": "Instagram",
       "declAttributes": [
         "RawDocComment"
       ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "Instagram"
     },
     {
       "kind": "TypeDecl",

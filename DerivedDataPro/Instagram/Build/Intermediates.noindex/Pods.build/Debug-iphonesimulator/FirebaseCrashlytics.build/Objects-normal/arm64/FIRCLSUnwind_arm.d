@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/FIRCLSUnwind_arm.c \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Compact/FIRCLSCompactUnwind.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSThreadState.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Compact/FIRCLSCompactUnwind_Private.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfUnwind.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfUnwindRegisters.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/FIRCLSUnwind.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSUtility.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSGlobals.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSContext.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSBinaryImage.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Shared/FIRCLSMachO/FIRCLSMachO.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSHost.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSUserLogging.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSAllocate.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSInternalLogging.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/FIRCLSUnwind_arch.h

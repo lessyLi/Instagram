@@ -1,0 +1,55 @@
+dependencies: \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponent.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRDependency.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResultInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h

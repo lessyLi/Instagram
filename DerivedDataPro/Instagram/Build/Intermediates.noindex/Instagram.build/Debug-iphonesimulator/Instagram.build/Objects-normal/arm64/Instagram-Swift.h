@@ -258,6 +258,7 @@ SWIFT_CLASS("_TtC9Instagram21ExploreViewController")
 SWIFT_CLASS("_TtC9Instagram18HomeViewController")
 @interface HomeViewController : UIViewController
 - (void)viewDidLoad;
+- (void)viewDidAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -274,6 +275,7 @@ SWIFT_CLASS("_TtC9Instagram18ListViewController")
 SWIFT_CLASS("_TtC9Instagram19LoginViewController")
 @interface LoginViewController : UIViewController
 - (void)viewDidLoad;
+- (void)viewDidLayoutSubviews;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "f25d69a64bd791757c8828b8791a38add23b551132ffc5714f7a64c0907a4ab9"
+build_start_time: [1660469504, 423961162]
+build_end_time: [1660469506, 665102958]
+inputs:
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift": [1660469295, 829719066]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift": [1660469295, 829638481]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift": [1660469295, 829028129]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift": [1660469295, 829475879]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift": [1660469295, 829973220]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift": [1660469295, 829299449]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift": [1660469295, 830158472]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift": [1660469295, 829384088]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift": [1660469295, 829890727]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift": [1660469295, 829212665]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift": [1660469295, 830072402]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift": [1660469295, 829563617]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift": [1660469295, 829127311]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift": [1660469295, 829801082]

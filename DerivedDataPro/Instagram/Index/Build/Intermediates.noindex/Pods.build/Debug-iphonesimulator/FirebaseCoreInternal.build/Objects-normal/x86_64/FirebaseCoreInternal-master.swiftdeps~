@@ -1,0 +1,24 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "46006ddfe7ebf60a815d0808250c3a0656e0e27c8bed52f8a68db23fd6bcaba2"
+build_start_time: [1660467471, 649292945]
+build_end_time: [1660467473, 510594844]
+inputs:
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": [1660467060, 419463634]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1660467060, 419805288]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1660467060, 420052528]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1660467060, 420174121]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1660467060, 420426607]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": [1660467060, 419579505]
+  "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1660467060, 419292449]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1660467060, 420551776]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1660467060, 420300960]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1660467060, 419690132]
+  ? "/Users/Documents/GeekBrains/Instagram/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1660467060, 419925212]

@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1660466185, 414658069]
+build_end_time: [1660466188, 446812152]
+inputs:
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Core Tabs/CameraViewController.swift": [1660464746, 89602470]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Core Tabs/ExploreViewController.swift": [1660466184, 291328430]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Core Tabs/HomeViewController.swift": [1660464754, 949985027]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Core Tabs/NotificationsViewController.swift": [1660464741, 442647218]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Core Tabs/ProfileViewController.swift": [1660464738, 766517162]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/EditProfileViewController.swift": [1660465147, 335024595]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/ListViewController.swift": [1660465179, 35615205]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/Onbording/LoginViewController.swift": [1660464906, 821378946]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/Onbording/RegistrationViewController.swift": [1660464918, 372377872]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/PostEditorViewController.swift": [1660465297, 113199234]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/PostViewController.swift": [1660465092, 580104827]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/PublishPostViewController.swift": [1660465311, 52325725]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/SearchResultViewController.swift": [1660465218, 637086391]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/SearchViewController.swift": [1660465122, 429972648]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Controllers/Other/SettingsViewController.swift": [1660465163, 458481788]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Resources/AppDelegate.swift": [1660462250, 225050926]
+  "/Users/Documents/GeekBrains/Instagram/Instagram/Resources/SceneDelegate.swift": [1660462250, 227338790]

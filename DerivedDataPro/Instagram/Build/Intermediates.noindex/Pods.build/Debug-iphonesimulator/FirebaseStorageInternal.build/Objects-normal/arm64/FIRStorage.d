@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStorage.m \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseStorageInternal.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorage.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageConstants.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageReference.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageDownloadTask.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageObservableTask.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageTask.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageMetadata.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageListResult.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/Public/FirebaseStorageInternal/FIRStorageUploadTask.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStorageConstants_Private.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStoragePath.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStorageReference_Private.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStorageTokenAuthorizer.h \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionUploadFetcher.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherService.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherLogging.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStorageUtils.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseStorageInternal/Sources/FIRStorage_Private.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseAppCheck/Interop/FIRAppCheckInterop.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseAuth/Interop/FIRAuthInterop.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRComponent.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRDependency.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIRLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseStorageInternal/FirebaseCore/Extension/FIROptionsInternal.h

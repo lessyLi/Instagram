@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/FMaxNode.m \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/FMaxNode.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FChildrenNode.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/Private/FTypedefs_Private.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FNode.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/Utilities/FPath.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FTypedefs.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FEmptyNode.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FUtilities.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/Documents/GeekBrains/Instagram/DerivedDataPro/Instagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRComponent.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRDependency.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRLogger.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FParsedUrl.h \
+  /Users/Documents/GeekBrains/Instagram/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FRepoInfo.h
